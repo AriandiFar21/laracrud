@@ -1,0 +1,2 @@
+# laracrud
+Ini merupakan CRUD 
